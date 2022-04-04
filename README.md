@@ -5,7 +5,7 @@ I'm currently learning how to code on a CodersCamp.pl bootcamp, and im enjoying 
 
 
 
-![statsy](https://github-readme-stats.vercel.app/api/top-langs/?username={n0macx}&theme=blue-green)
+![statsy](https://github-readme-stats.vercel.app/api/top-langs/?username=n0macx&theme=blue-green)
 ![n0macx's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0macx&show_icons=true&theme=dark)
 
 
